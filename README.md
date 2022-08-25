@@ -1,3 +1,3 @@
 # lzrpi.github.io
 
-- [min kage](web/)
+- [om mig](web/)
